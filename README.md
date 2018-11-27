@@ -14,16 +14,18 @@ git clone https://github.com/*Your_Github_ID*/ML_HW
 git checkout -b *Your_Name*
 ```
 
-4. Push branch to **your** forked repo.
+4. Go to your folder (`horim` or `sangho` or `yeji`) and do homework. (Don't remove `.placeholder` file)
+
+5. Push branch to **your** forked repo.
 ```git
 git push origin *Your_Name*
 ```
 
-5. Revisit **your** forked repository, then there is **Compare & pull request** Button.
+6. Revisit **your** forked repository, then there is **Compare & pull request** Button.
 
-6. Create Pull Request
+7. Create Pull Request
 
-7. Then I will merge it! Finish!
+8. Then I will merge it! Finish!
 
 
 If you want to get more information, then see [Git Pull Request](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
