@@ -21,7 +21,7 @@ fn main() {
     w1.print();
     w0.print();
 
-    // 2. Use Peroxide
+    // 2. Use Peroxide - Polynomial
     let linreg = least_square(x, t);
     linreg.print();
 }
